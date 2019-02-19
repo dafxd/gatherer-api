@@ -1,0 +1,22 @@
+{
+  "name": "gatherer-api",
+  "version": "0.0.1",
+  "description": "Generic API for Gatherer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafxd/gatherer-api.git"
+  },
+  "author": "dafxd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dafxd/gatherer-api/issues"
+  },
+  "homepage": "https://github.com/dafxd/gatherer-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
